@@ -1,0 +1,92 @@
+// Laboratorio de simulación 2.2 - Liderar, decidir y controlar
+// Unidad 2 - Fundamentos de Administración
+// Importar en Moodle: Banco de preguntas > Importar > Formato GIFT
+// Caso base: "Club Deportivo Andes", escuela de formación deportiva con 3 sedes y 25 empleados.
+
+$CATEGORY: $course$/top/Unidad 2 - Laboratorio de simulación
+
+::LAB01 Planeación - objetivo::[html]<p><strong>Club Deportivo Andes.</strong> La gerente te pide redactar el objetivo comercial del próximo semestre. ¿Cuál propuesta eliges?</p>{
+=Aumentar en 15% los deportistas inscritos en las 3 sedes entre enero y junio de 2027.#Correcto. Es específico, medible, alcanzable, relevante y tiene un tiempo definido (SMART).
+~Ser el mejor club deportivo de la ciudad.#Esto se parece más a una visión. No es medible ni tiene fecha.
+~Vender más inscripciones que el año pasado.#Es demasiado general. ¿Cuánto más? ¿Para cuándo?
+~Hacer publicidad en redes sociales todos los días.#Es una actividad o táctica, no un objetivo.
+}
+
+::LAB02 Planeación - misión o visión::[html]<p>El club redactó esta frase\: <em>"En 2030 seremos la escuela deportiva referente del departamento por la formación integral de nuestros deportistas"</em>. ¿Qué elemento de la planeación es?</p>{
+=Visión#Correcto. Describe a dónde quiere llegar la organización en el futuro.
+~Misión#La misión describe lo que la organización hace hoy, para quién y cómo.
+~Política#Una política es un criterio que guía las decisiones.
+~Objetivo#Un objetivo es un resultado concreto y medible.
+}
+
+::LAB03 Planeación - tipo::[html]<p>El coordinador de la sede Norte organiza los horarios de entrenamiento de la próxima semana. ¿Qué tipo de planeación está haciendo?</p>{
+=Operativa#Correcto. Es de corto plazo y la hace un nivel de supervisión.
+~Estratégica#La planeación estratégica es de largo plazo y la hace la alta dirección.
+~Táctica#La planeación táctica es de mediano plazo y corresponde a un área completa.
+~Presupuestal#El presupuesto es un elemento del plan, no un tipo de planeación.
+}
+
+::LAB04 Organización - departamentalización::[html]<p>El club crece y abre sedes en otros dos municipios. Decide que cada municipio tenga su propio coordinador, con su equipo de entrenadores y su personal administrativo. ¿Qué criterio de departamentalización aplica?</p>{
+=Geográfico#Correcto. Agrupa las actividades por territorio.
+~Funcional#El criterio funcional agrupa por tipo de actividad (mercadeo, finanzas…).
+~Por cliente#Agrupar por cliente sería, por ejemplo, niños, adultos y empresas.
+~Por proceso#Agrupar por proceso sigue las etapas de producción.
+}
+
+::LAB05 Organización - estructura::[html]<p>Para organizar un torneo, el club forma un equipo con un entrenador, un contador y un diseñador. Cada uno sigue reportando a su jefe de área, pero también responde al coordinador del torneo. ¿Qué estructura es?</p>{
+=Matricial#Correcto. Combina las áreas funcionales con un proyecto, y hay doble línea de reporte.
+~Lineal#En la estructura lineal cada persona tiene un solo jefe.
+~Por divisiones#Las divisiones son unidades casi autónomas por producto o región.
+~Circular#Circular es una forma de presentar el organigrama, no un tipo de estructura.
+}
+
+::LAB06 Dirección - liderazgo en crisis::[html]<p>A mitad de un entrenamiento se va la luz y hay 40 niños en el coliseo. Como líder, ¿qué estilo debes usar en ese momento?</p>{
+=Autocrático, das instrucciones claras e inmediatas para evacuar con seguridad.#Correcto. En una emergencia se necesitan decisiones rápidas y órdenes claras.
+~Democrático, reúnes al equipo para decidir entre todos qué hacer.#Es valioso en otros momentos, pero en una emergencia no hay tiempo para deliberar.
+~Laissez-faire, dejas que cada entrenador decida por su cuenta.#Sin coordinación en una emergencia aumenta el riesgo.
+~Esperas a que llegue la gerente para que ella decida.#Un líder debe actuar. Esperar pone en riesgo a las personas.
+}
+
+::LAB07 Dirección - motivación Herzberg::[html]<p>Los entrenadores tienen buen salario y buenas instalaciones, pero se sienten desmotivados. Según Herzberg, ¿qué medida tiene mayor probabilidad de motivarlos?</p>{
+=Darles reconocimiento por sus logros y la responsabilidad de liderar nuevos programas.#Correcto. El logro, el reconocimiento y la responsabilidad son factores motivadores.
+~Subir un poco más el salario.#El salario es un factor higiénico. Evita la insatisfacción, pero no genera motivación duradera.
+~Pintar y remodelar las oficinas.#Las condiciones físicas son un factor higiénico.
+~Endurecer el reglamento interno.#Las políticas son un factor higiénico. Endurecerlas puede aumentar la insatisfacción.
+}
+
+::LAB08 Dirección - etapa del grupo::[html]<p>El nuevo equipo de entrenadores discute constantemente sobre quién dirige cada categoría y cómo se reparten los horarios. ¿En qué etapa de desarrollo del grupo (Tuckman) están y qué conviene hacer?</p>{
+=Conflicto (tormenta). Conviene aclarar roles y acordar reglas de trabajo.#Correcto. Definir roles y normas lleva al equipo a la etapa de normalización.
+~Desempeño. Conviene dejarlos solos porque ya funcionan bien.#En desempeño el equipo trabaja coordinado. Aquí hay conflicto sin resolver.
+~Formación. Conviene esperar a que se conozcan.#La formación es la etapa inicial de incertidumbre, antes de los conflictos.
+~Disolución. Conviene cambiar a todo el equipo.#La disolución ocurre cuando el equipo termina su tarea.
+}
+
+::LAB09 Trabajo gerencial - rol Mintzberg::[html]<p>La gerente representa al club en una entrevista con un canal regional para anunciar un nuevo programa. ¿Qué rol de Mintzberg cumple?</p>{
+=Portavoz (rol informacional)#Correcto. Comunica información de la organización hacia afuera.
+~Líder (rol interpersonal)#El rol de líder se refiere a dirigir y motivar al equipo interno.
+~Asignador de recursos (rol decisorio)#Ese rol consiste en decidir cómo se distribuyen los recursos.
+~Monitor (rol informacional)#El monitor busca y recibe información. No la comunica afuera.
+}
+
+::LAB10 Control - tipo::[html]<p>Antes de cada torneo, el club revisa el estado de las canchas, los balones y los botiquines. ¿Qué tipo de control es?</p>{
+=Preventivo (previo)#Correcto. Se hace antes de la actividad para evitar problemas.
+~Concurrente#El control concurrente ocurre durante la actividad.
+~De retroalimentación#El control de retroalimentación se hace después, con los resultados.
+~Presupuestal#El control presupuestal revisa el dinero, no el estado de los materiales.
+}
+
+::LAB11 Control - indicador::[html]<p>La meta del semestre era 400 inscritos y se lograron 340. ¿Cuál es el indicador de eficacia y qué decisión tomas?</p>{
+=85%. Analizo en qué sede o categoría está la brecha y ajusto la estrategia comercial.#Correcto. 340 ÷ 400 × 100 \= 85%. Controlar implica identificar la causa y corregir.
+~85%. Como está cerca de la meta, no hago nada.#El cálculo es correcto, pero el control exige tomar acciones correctivas ante la desviación.
+~118%. Se superó la meta.#Invertiste la fórmula. Es (real ÷ meta) × 100.
+~60 inscritos. Despido al equipo comercial.#60 es la diferencia, no el indicador. Además, la decisión no analiza causas.
+}
+
+::LAB12 Control - instrumento::[html]<p>Los padres se quejan porque el proceso de inscripción es lento y cada sede lo hace distinto. ¿Qué instrumento de control te ayuda más a detectar el problema y a estandarizar?</p>{
+=Un flujograma del proceso de inscripción y un manual de procedimientos para todas las sedes.#Correcto. El flujograma muestra demoras y pasos repetidos. El manual unifica la forma de trabajar.
+~Un organigrama general del club.#El organigrama muestra la estructura, no los pasos del proceso.
+~Un cambio en la visión del club.#La visión es un elemento de planeación a largo plazo. No resuelve un proceso operativo.
+~Un aumento del presupuesto de publicidad.#No ataca la causa, que es el proceso de inscripción.
+}
+
+::LAB13 Integración - reflexión::[html]<p><strong>Tu decisión como gerente.</strong> Al cierre del semestre, el Club Deportivo Andes tiene más deportistas, pero también más quejas de los padres y más rotación de entrenadores. Propón, en máximo 150 palabras, <strong>una acción de dirección</strong> y <strong>un instrumento de control</strong> para el próximo semestre, y justifica tu elección con los conceptos de la unidad.</p>{}
