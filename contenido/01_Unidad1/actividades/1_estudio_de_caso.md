@@ -8,7 +8,7 @@ Aplicar los conceptos básicos de la administración y las primeras teorías adm
 
 ## Instrucciones
 
-1. Lee el caso que el docente publica en esta sección.
+1. Lee el caso **Confecciones Deportivas Montaña** (página "Caso de estudio" de esta sección).
 2. Responde:
    - ¿Cuál es la actividad, el propósito y la estructura básica de la organización?
    - ¿Quiénes son sus grupos de interés (internos y externos)?

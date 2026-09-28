@@ -1,0 +1,93 @@
+// Autoevaluación Unidad 1 - Fundamentos y contexto de la organización
+// Fundamentos de Administración
+// Importar en Moodle: Banco de preguntas > Importar > Formato GIFT
+// Cuestionario de práctica (sin nota), con intentos ilimitados.
+
+$CATEGORY: $course$/top/Unidad 1 - Autoevaluación
+
+::U1-01 Surgimiento::[html]<p>¿Qué hecho histórico impulsó el surgimiento de la administración como disciplina de estudio a comienzos del siglo XX?</p>{
+=El crecimiento de las fábricas y empresas tras la Revolución Industrial.#Correcto. Coordinar a miles de obreros y recursos costosos exigía un método.
+~La construcción de las pirámides de Egipto.#Es un antecedente de la administración, pero no la convirtió en disciplina.
+~La invención de internet.#Internet es muy posterior (finales del siglo XX).
+~La publicación del Código de Hammurabi.#Es un antecedente de normas escritas en la Antigüedad.
+}
+
+::U1-02 Adam Smith::[html]<p>En 1776, en <em>La riqueza de las naciones</em>, Adam Smith explicó con el ejemplo de una fábrica de alfileres el principio de…</p>{
+=la división del trabajo.#Correcto. La especialización multiplica la productividad.
+~la unidad de mando.#La unidad de mando es un principio de Fayol.
+~la autoridad racional-legal.#Ese concepto es de Max Weber.
+~la retroalimentación.#Es un concepto de la teoría de sistemas.
+}
+
+::U1-03 Eficacia y eficiencia::[html]<p>Un club deportivo logró su meta de 300 inscritos, pero gastó el doble del presupuesto en publicidad. Fue…</p>{
+=eficaz, pero no eficiente.#Correcto. Logró el objetivo (eficacia) sin usar bien los recursos (eficiencia).
+~eficiente, pero no eficaz.#Es al revés. Sí logró la meta, pero gastó de más.
+~eficaz y eficiente.#No fue eficiente, porque gastó el doble de lo previsto.
+~ni eficaz ni eficiente.#Sí fue eficaz, porque cumplió la meta.
+}
+
+::U1-04 Universalidad::[html]<p>"La administración se aplica en una empresa, un club, una familia o el Estado." Esta afirmación describe la característica de…</p>{
+=universalidad.#Correcto. Existe en todo grupo social.
+~especificidad.#La especificidad se refiere a que tiene su propio objeto de estudio.
+~valor instrumental.#El valor instrumental significa que es un medio y no un fin.
+~unidad jerárquica.#La unidad jerárquica significa que todos los jefes participan en ella.
+}
+
+::U1-05 Grupos de interés::[html]<p>¿Cuál de los siguientes es un grupo de interés <strong>interno</strong> de una organización?</p>{
+=Los empleados#Correcto. Junto con los propietarios y los directivos, son grupos internos.
+~Los proveedores#Los proveedores son un grupo externo.
+~La alcaldía municipal#El gobierno es un grupo externo.
+~Los competidores#Los competidores son un grupo externo.
+}
+
+::U1-06 PESTEL::[html]<p>El aumento del precio del dólar que encarece la materia prima de una empresa es un factor del entorno…</p>{
+=económico (macroentorno).#Correcto. Tasas de cambio, inflación e intereses son factores económicos del PESTEL.
+~interno.#La empresa no controla el precio del dólar.
+~legal.#Lo legal se refiere a leyes y normas.
+~social.#Lo social se refiere a la cultura, los hábitos y la demografía.
+}
+
+::U1-07 Taylor::[html]<p>Un jefe de producción mide cuántos minutos tarda cada operación y fija un método estándar con un bono por productividad. Aplica la teoría…</p>{
+=de la administración científica (Taylor).#Correcto. Estudio de tiempos y movimientos más incentivos salariales.
+~de las relaciones humanas (Mayo).#Esa teoría se centra en los factores sociales y la motivación.
+~de la contingencia.#La contingencia plantea que la forma de administrar depende del entorno.
+~de sistemas (Bertalanffy).#La teoría de sistemas ve la organización como un todo abierto.
+}
+
+::U1-08 Fayol::[html]<p>Según Fayol, las funciones administrativas son…</p>{
+=prever, organizar, dirigir, coordinar y controlar.#Correcto. Es el antecedente del proceso administrativo actual.
+~entradas, proceso, salidas y retroalimentación.#Son los elementos de un sistema (Bertalanffy).
+~planear el método, seleccionar, controlar y dividir responsabilidades.#Son los principios de Taylor.
+~logro, poder y afiliación.#Son las necesidades de McClelland.
+}
+
+::U1-09 Hawthorne::[html]<p>¿Cuál fue la principal conclusión de los experimentos de Hawthorne dirigidos por Elton Mayo?</p>{
+=Los factores sociales y el sentirse tomado en cuenta influyen en la productividad.#Correcto. El trabajador es un ser social, no solo económico.
+~La iluminación es el factor que más influye en la productividad.#Precisamente descubrieron que no era la iluminación.
+~Solo el salario motiva al trabajador.#Esa es la visión del homo economicus que Mayo cuestionó.
+~Las normas escritas eliminan los conflictos.#Esa idea se acerca a la burocracia de Weber.
+}
+
+::U1-10 Weber::[html]<p>Una empresa exige tres firmas y formatos escritos para cualquier compra, y la comunicación solo puede ser formal. Esto refleja la teoría de la burocracia y también una de sus disfunciones, que es…</p>{
+=el exceso de trámites y la lentitud para responder.#Correcto. Aplicar las normas en exceso genera rigidez y papeleo.
+~la falta de normas.#Ocurre lo contrario, hay exceso de normas.
+~el exceso de motivación.#No está relacionado con la burocracia.
+~la ausencia de jerarquía.#La burocracia se caracteriza por tener una jerarquía clara.
+}
+
+::U1-11 Sistemas y contingencia::[html]<p>Una startup tecnológica decide trabajar con equipos flexibles y pocas jerarquías porque su mercado cambia cada mes. Esto es coherente con la teoría…</p>{
+=de la contingencia, porque en entornos cambiantes funcionan mejor las estructuras orgánicas.#Correcto. "Todo depende" del entorno.
+~clásica, porque aplica los 14 principios de Fayol.#Fayol propone una estructura más formal y jerárquica.
+~científica, porque estandariza cada tarea.#No se trata de estandarizar tiempos y movimientos.
+~de la burocracia, porque reduce las normas.#La burocracia promueve normas escritas y jerarquía.
+}
+
+::U1-12 Relacionar teorías y autores::Relaciona cada teoría con su autor principal.{
+=Administración científica -> Frederick Taylor
+=Teoría clásica -> Henri Fayol
+=Relaciones humanas -> Elton Mayo
+=Burocracia -> Max Weber
+=Teoría general de sistemas -> Ludwig von Bertalanffy
+}
+
+::U1-13 Verdadero o falso contingencia::La teoría de la contingencia afirma que existe una única mejor manera de administrar cualquier organización.{FALSE#Falso. Plantea que no hay una única mejor manera y que todo depende del entorno, la tecnología y el tamaño.}

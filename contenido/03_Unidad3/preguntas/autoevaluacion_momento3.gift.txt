@@ -1,0 +1,76 @@
+// Autoevaluación Momento 3 - Áreas funcionales y funcionamiento interno
+// Fundamentos de Administración
+// Importar en Moodle: Banco de preguntas > Importar > Formato GIFT
+// Cuestionario de práctica (sin nota), con intentos ilimitados.
+
+$CATEGORY: $course$/top/Unidades 3 y 4 - Autoevaluación
+
+::M3-01 Área funcional::[html]<p>La rotación de personal y el clima laboral son indicadores típicos del área…</p>{
+=administrativa y de talento humano.#Correcto. Esta área gestiona a las personas.
+~comercial.#El área comercial se mide con ventas, participación y satisfacción del cliente.
+~financiera.#El área financiera se mide con liquidez, margen y endeudamiento.
+~de producción.#Producción se mide con unidades, defectos y tiempos.
+}
+
+::M3-02 Área comercial::[html]<p>¿Qué función corresponde al área comercial?</p>{
+=Investigar el mercado y definir el precio y la publicidad del producto.#Correcto.
+~Pagar la nómina.#Pagar la nómina es función de talento humano o finanzas.
+~Hacer el mantenimiento de las máquinas.#El mantenimiento es función de operaciones o producción.
+~Presentar la declaración de impuestos.#Los impuestos son función del área financiera y contable.
+}
+
+::M3-03 Pymes::[html]<p>En una microempresa, el dueño compra, vende, lleva las cuentas y contrata. Esto significa que…</p>{
+=las funciones existen, aunque no haya áreas formales separadas.#Correcto. Las funciones están presentes aunque las cumpla una sola persona.
+~la empresa no tiene áreas funcionales.#Las funciones existen. Lo que no hay es una separación formal.
+~la empresa está mal administrada.#No necesariamente, porque es normal por su tamaño.
+~solo existe el área comercial.#El dueño cumple varias funciones, no solo la comercial.
+}
+
+::M3-04 Dinámica organizacional::[html]<p>"Aquí siempre se ha hecho así" es una expresión que refleja principalmente la…</p>{
+=cultura organizacional.#Correcto. Son las costumbres y creencias compartidas.
+~estructura formal.#La estructura se ve en el organigrama.
+~departamentalización.#La departamentalización es el criterio para agrupar tareas.
+~planeación táctica.#La planeación táctica es un plan de mediano plazo.
+}
+
+::M3-05 Coordinación::[html]<p>La jefa de ventas y el jefe de producción se ponen de acuerdo en una llamada para atender un pedido urgente. ¿Qué mecanismo de coordinación usan?</p>{
+=Ajuste mutuo#Correcto. Se coordinan mediante la comunicación directa entre ellos.
+~Supervisión directa#Aquí no hay un jefe superior que dé la instrucción.
+~Estandarización de procesos#No siguen un procedimiento escrito.
+~Estandarización de habilidades#No se trata de la formación previa de las personas.
+}
+
+::M3-06 Interdependencia::[html]<p>Compras entrega la tela a producción, y producción entrega los uniformes terminados a ventas. ¿Qué tipo de interdependencia es?</p>{
+=Secuencial#Correcto. Lo que produce un área es la entrada de la siguiente.
+~Mancomunada#En la mancomunada las áreas solo comparten recursos.
+~Recíproca#En la recíproca la relación va y vuelve entre las áreas.
+~Jerárquica#No es uno de los tipos de interdependencia de Thompson.
+}
+
+::M3-07 Decisiones::[html]<p>"Cuando el inventario de balones baje de 20 unidades, se hace un pedido al proveedor." Es una decisión…</p>{
+=programada.#Correcto. Es repetitiva y sigue una regla establecida.
+~no programada.#Las decisiones no programadas son nuevas y requieren análisis.
+~estratégica.#Es una decisión operativa.
+~descentralizada por definición.#Que una decisión sea programada no la hace descentralizada.
+}
+
+::M3-08 Hallazgo::[html]<p>¿Cuál de estas afirmaciones es un <strong>hallazgo</strong> bien formulado?</p>{
+=El 60% de los clientes entrevistados esperó más de 5 días su pedido, cuando la promesa de entrega es de 3 días.#Correcto. Es una conclusión sustentada con evidencia.
+~Creemos que la empresa debería mejorar.#Es una opinión general, sin evidencia.
+~La empresa es muy buena.#Es un juicio sin sustento.
+~Hay que comprar un software nuevo.#Es una recomendación, no un hallazgo.
+}
+
+::M3-09 Priorización::[html]<p>En la matriz impacto–esfuerzo, ¿qué oportunidad de mejora se debe atender primero?</p>{
+=La de alto impacto y bajo esfuerzo.#Correcto. Da más resultado con menos recursos.
+~La de bajo impacto y alto esfuerzo.#Esa se descarta.
+~La de alto impacto y alto esfuerzo.#Esa se planea, pero va en segundo lugar.
+~La de bajo impacto y bajo esfuerzo.#Esa se atiende solo si sobra tiempo.
+}
+
+::M3-10 Recomendación::[html]<p>¿Qué le falta a esta recomendación? <em>"Mejorar la comunicación entre las áreas."</em></p>{
+=Decir qué acción concreta se hará, quién la hace, cuándo y con qué indicador se medirá.#Correcto. Así como está es muy general y no se puede medir.
+~Nada, está completa.#Sin responsable, fecha e indicador no se puede ejecutar ni evaluar.
+~Hacerla más larga.#La extensión no es el problema. Lo que falta es precisión.
+~Incluir el organigrama.#El organigrama no convierte la frase en una recomendación accionable.
+}
