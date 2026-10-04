@@ -1,0 +1,119 @@
+// Laboratorio de simulación — Fundamentos de Administración — Unidad 2
+// Escenario: gerente de operaciones de Distribuciones Andina S.A.S.
+// Importar en Moodle: Banco de preguntas > Importar > Formato GIFT (codificación UTF-8)
+
+$CATEGORY: $course$/Fundamentos de Administración/U2 Laboratorio de simulación/Dirección
+
+::D01 Equipo desmotivado::[html]En tu primera semana notas que el equipo de despacho cumple el mínimo, llega tarde y no propone ideas. El supervisor anterior solo daba órdenes. ¿Cuál es tu primera acción?{
+=Reunirte uno a uno con los integrantes para escuchar qué los motiva y qué obstáculos tienen#Correcto. Antes de intervenir, el líder diagnostica. Escuchar construye confianza y te da información para motivar de forma pertinente.
+~%50%Anunciar un bono por cumplimiento de metas para todo el equipo#Puede funcionar a corto plazo, pero sin diagnóstico no sabes si el problema es el dinero. Los factores higiénicos no siempre generan motivación (Herzberg).
+~%0%Aplicar llamados de atención por escrito a quienes lleguen tarde#Controla la conducta, pero no ataca la causa y deteriora el clima laboral.
+~%0%Esperar un mes a ver si el equipo se adapta a tu estilo#La pasividad refuerza la desmotivación. Un líder actúa.
+}
+
+::D02 Estilo de liderazgo::[html]Debes implementar en dos días un nuevo protocolo de seguridad obligatorio por norma legal. El equipo es experimentado pero no conoce la norma. ¿Qué estilo de liderazgo aplicas?{
+=Directivo, explicando claramente qué se debe hacer y por qué, con seguimiento cercano#Correcto. Ante urgencia y desconocimiento de la tarea, el liderazgo situacional recomienda dirigir, explicando las razones.
+~%50%Participativo, construyendo el protocolo con el equipo en varias reuniones#Valioso en otros contextos, pero aquí no hay tiempo y la norma no es negociable.
+~%0%Delegativo, enviando la norma por correo para que cada uno la lea#Delegar exige que el equipo ya domine la tarea, lo cual no ocurre.
+~%0%Laissez-faire, porque el equipo es experimentado#La experiencia en su trabajo no implica conocer una norma nueva.
+}
+
+::D03 Conflicto entre áreas::[html]Ventas promete entregas en 24 horas, pero despacho dice que no es posible y los clientes reclaman. Los jefes de ambas áreas se culpan. ¿Qué haces?{
+=Reunir a ambos jefes, revisar datos de capacidad real y acordar juntos un tiempo de entrega y un canal de comunicación#Correcto. El conflicto se resuelve con datos, colaboración y acuerdos de coordinación entre áreas interdependientes.
+~%25%Dar la razón a ventas porque el cliente es lo primero#Ignora la capacidad operativa; el problema se repetirá.
+~%25%Dar la razón a despacho y ordenar a ventas prometer 72 horas#Resuelve la operación pero puede hacer perder clientes; no hubo análisis conjunto.
+~%0%Escalar el problema a la gerencia general#Es tu responsabilidad como gerente de operaciones. Escalar sin intentar resolver muestra falta de liderazgo.
+}
+
+::D04 Comunicación de un cambio::[html]La empresa cambiará el sistema de turnos. Sabes que habrá resistencia. ¿Cómo lo comunicas?{
+=Explicar en reunión presencial las razones, los beneficios y lo que no cambia, abrir espacio para preguntas y luego enviarlo por escrito#Correcto. La comunicación efectiva del cambio es bidireccional, oportuna y combina canales.
+~%50%Enviar un comunicado escrito detallado a todos#Deja registro, pero es unidireccional y no permite resolver dudas ni temores.
+~%0%Informarlo a los supervisores para que ellos lo comuniquen como puedan#Pierdes control del mensaje y aumenta el rumor.
+~%0%Aplicarlo sin anunciarlo para evitar discusiones#Destruye la confianza y aumenta la resistencia.
+}
+
+::D05 Roles gerenciales::[html]Pasas el día representando a la empresa ante un cliente grande, luego transmites a tu equipo la información del nuevo contrato y finalmente negocias recursos con el área financiera. Según Mintzberg, ¿qué grupos de roles ejerciste, en ese orden?{
+=Interpersonal, informacional y decisorio#Correcto. Representar (figura/enlace) es interpersonal, difundir información es informacional y negociar recursos es decisorio.
+~Informacional, interpersonal y decisorio#Representar a la empresa ante un cliente es un rol interpersonal.
+~Decisorio, informacional e interpersonal#Negociar recursos es decisorio y ocurre al final.
+~Interpersonal, decisorio e informacional#Transmitir información al equipo es un rol informacional.
+}
+
+::D06 Delegación::[html]Tienes exceso de trabajo. Una analista con buen desempeño quiere más responsabilidad. ¿Qué tarea le delegas?{
+=La elaboración del informe semanal de indicadores, con criterios claros, autoridad para pedir datos y una revisión acordada#Correcto. Delegar bien implica transferir autoridad con responsabilidad, criterios y seguimiento.
+~%50%Cualquier tarea operativa para liberarte tiempo#Delega, pero no aprovecha su potencial ni la motiva.
+~%0%La decisión de despedir a un conductor#Hay decisiones que no se delegan por su impacto y responsabilidad legal.
+~%0%Ninguna; es más rápido hacerlo tú mismo#No delegar te sobrecarga y frena el desarrollo de tu equipo.
+}
+
+::D07 Competencias gerenciales::[html]La gerencia general quiere promover a un supervisor a jefe de bodega. ¿Qué competencia es MÁS determinante para ese cargo de mando medio?{
+=Capacidad de coordinar personas y recursos y de resolver problemas operativos#Correcto. Los mandos medios requieren sobre todo habilidades humanas y técnicas para coordinar la operación.
+~%50%Dominio técnico del inventario#Es importante, pero el cargo exige dirigir personas, no solo saber la tarea.
+~%25%Visión estratégica de largo plazo#Es más propia de la alta dirección.
+~%0%Antigüedad en la empresa#La antigüedad no es una competencia.
+}
+
+::D08 Trabajo en equipo::[html]Un equipo de cinco personas debe rediseñar las rutas de entrega. Dos personas hacen todo y tres casi no participan. ¿Qué haces?{
+=Definir con el equipo roles, metas y entregables individuales visibles en un tablero compartido#Correcto. La claridad de roles y la visibilidad del aporte reducen la holgazanería social.
+~%25%Felicitar públicamente a quienes trabajan#Reconocer es bueno, pero no corrige la distribución del trabajo.
+~%25%Sacar del equipo a los tres que no participan#Medida extrema sin diagnóstico ni oportunidad de mejora.
+~%0%Dejarlo así; lo importante es el resultado#El desequilibrio genera desgaste y conflictos.
+}
+
+$CATEGORY: $course$/Fundamentos de Administración/U2 Laboratorio de simulación/Control
+
+::C01 Indicador adecuado::[html]Quieres saber si la empresa cumple lo que promete a los clientes. ¿Qué indicador usas?{
+=Porcentaje de pedidos entregados a tiempo y completos#Correcto. Es un indicador de eficacia orientado al cliente (OTIF).
+~%25%Número de camiones disponibles#Mide capacidad, no cumplimiento.
+~%25%Costo de combustible por mes#Mide eficiencia en costos, no cumplimiento.
+~%0%Cantidad de empleados de despacho#No mide resultados.
+}
+
+::C02 Tipo de control::[html]Antes de que los camiones salgan, un auxiliar verifica que cada pedido coincida con la factura. ¿Qué tipo de control es?{
+=Preventivo (previo o anticipado)#Correcto. Ocurre antes de que el error llegue al cliente.
+~Concurrente#El control concurrente se hace mientras se ejecuta la actividad, por ejemplo durante la ruta.
+~Correctivo (de retroalimentación)#El correctivo actúa después de que el resultado ya ocurrió.
+~Estratégico#Es un control operativo, no estratégico.
+}
+
+::C03 Desviación::[html]La meta de entregas a tiempo es 95%. Este mes el resultado fue 82%. ¿Cuál es el paso correcto del proceso de control?{
+=Analizar las causas de la desviación antes de definir acciones correctivas#Correcto. El proceso de control es fijar estándares, medir, comparar, analizar causas y corregir.
+~%25%Bajar la meta a 85% para que sea alcanzable#Cambiar el estándar sin análisis oculta el problema.
+~%25%Sancionar a los conductores#Supone una causa sin evidencia.
+~%0%Esperar el próximo mes porque puede ser algo puntual#Ignorar una desviación de 13 puntos es fallar en el control.
+}
+
+::C04 Flujograma::[html]Cada bodeguero hace el proceso de recepción de mercancía de forma diferente y se pierden productos. ¿Qué instrumento de control implementas primero?{
+=Un flujograma del proceso de recepción con responsables y puntos de verificación#Correcto. El flujograma estandariza la secuencia y hace visibles los puntos de control.
+~%50%Un manual de funciones de cada cargo#Ayuda, pero describe cargos, no la secuencia del proceso.
+~%25%Un informe mensual de pérdidas#Mide el problema pero no lo previene.
+~%0%Cámaras de seguridad en la bodega#Vigila, pero no ordena el proceso.
+}
+
+::C05 Manual de procedimientos::[html]¿Cuál es la principal diferencia entre un manual de funciones y un manual de procedimientos?{
+=El de funciones describe qué hace cada cargo; el de procedimientos describe paso a paso cómo se realiza un proceso#Correcto.
+~Son lo mismo con distinto nombre#Tienen propósitos diferentes.
+~El de procedimientos solo aplica a la alta dirección#Aplica a todos los niveles que ejecutan procesos.
+~El de funciones describe los procesos y el de procedimientos los salarios#Ninguno de los dos se enfoca en salarios.
+}
+
+::C06 Tecnología para el control::[html]La gerencia quiere ver diariamente las entregas, los reclamos y los costos sin esperar al informe mensual. ¿Qué recurso tecnológico propones?{
+=Un tablero de control (dashboard) conectado a los registros diarios, por ejemplo en Power BI, Looker Studio o Excel#Correcto. Permite control oportuno con indicadores actualizados.
+~%50%Un correo diario con los datos en una tabla#Es oportuno, pero difícil de analizar y comparar.
+~%25%Un informe trimestral más detallado#Es más completo pero menos oportuno.
+~%0%Una reunión diaria de dos horas con todos los jefes#Consume mucho tiempo y no deja registro sistemático.
+}
+
+::C07 Control y motivación::[html]Instalaste un sistema de indicadores por conductor. Algunos sienten que es para castigarlos. ¿Qué haces para que el control sea aceptado?{
+=Compartir los resultados con ellos, explicar el propósito de mejora y reconocer a quienes avanzan#Correcto. Un control eficaz es comprensible, participativo y se vincula con el reconocimiento.
+~%25%Mantener los indicadores en reserva solo para la gerencia#Reduce la tensión, pero pierde el valor del control como herramienta de mejora.
+~%0%Retirar el sistema de indicadores#Sin medición no hay control.
+~%0%Vincular los indicadores únicamente a descuentos salariales#Refuerza la percepción de castigo.
+}
+
+::C08 Integración del proceso::[html]Al final del mes descubres que no cumpliste el objetivo de reducir reclamos en 20%. ¿Cuál es la relación correcta entre control y planeación?{
+=El control compara lo logrado con lo planeado y sus resultados alimentan el siguiente ciclo de planeación#Correcto. Planeación, organización, dirección y control forman un ciclo continuo.
+~El control es independiente de la planeación#El control solo tiene sentido frente a objetivos planeados.
+~La planeación se hace después del control y no antes#Es un ciclo; la planeación inicia y el control retroalimenta.
+~Si no se cumplió el objetivo, la planeación estuvo mal y se descarta#El control analiza causas; pueden estar en la ejecución, no en el plan.
+}
